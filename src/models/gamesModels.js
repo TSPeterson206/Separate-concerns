@@ -1,6 +1,3 @@
-const {
-  manageFile
-} = require('../utils/index.js')
 const games = require('../db/gamesData.js')
 const uuid = require('uuid')
 
